@@ -1,0 +1,20 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Animals/cat",
+      "FromFile": "assets/cat.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/cat2",
+      "FromFile": "assets/cat2.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/cat3",
+      "FromFile": "assets/cat3.png"
+    }
+  ]
+}
