@@ -11,7 +11,7 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/cat.png",
       "FromArea": { "X": 74, "Y": 138, "Width": 13, "Height": 10 },
-      "ToArea": { "X": 160, "Y": 211, "Width": 13, "Height": 10 },
+      "ToArea": { "X": 161, "Y": 211, "Width": 13, "Height": 10 },
       "Patchmode": "Replace"
     },
 
