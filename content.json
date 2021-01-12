@@ -11,8 +11,7 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/cat.png",
       "FromArea": { "X": 74, "Y": 138, "Width": 13, "Height": 10 },
-      "ToArea": { "X": 161, "Y": 211, "Width": 13, "Height": 10 },
-      "PatchMode": "Replace"
+      "ToArea": { "X": 161, "Y": 211, "Width": 13, "Height": 10 }
     },
 
     {
@@ -25,8 +24,7 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/cat2.png",
       "FromArea": { "X": 74, "Y": 138, "Width": 13, "Height": 10 },
-      "ToArea": { "X": 177, "Y": 211, "Width": 13, "Height": 10 },
-      "PatchMode": "Replace"
+      "ToArea": { "X": 177, "Y": 211, "Width": 13, "Height": 10 }
     },
 
     {
@@ -39,16 +37,14 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/cat3.png",
       "FromArea": { "X": 74, "Y": 138, "Width": 13, "Height": 10 },
-      "ToArea": { "X": 193, "Y": 211, "Width": 13, "Height": 10 },
-      "PatchMode": "Replace"
+      "ToArea": { "X": 193, "Y": 211, "Width": 13, "Height": 10 }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/cat3.png",
       "FromArea": { "X": 0, "Y": 0, "Width": 3, "Height": 2 },
-      "ToArea": { "X": 198, "Y": 221, "Width": 3, "Height": 2 },
-      "PatchMode": "Replace"
+      "ToArea": { "X": 198, "Y": 221, "Width": 3, "Height": 2 }
     }
   ]
 }
